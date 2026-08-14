@@ -111,7 +111,7 @@ export default function HeroSection() {
 
             {/* Positioning (single powerful line) */}
             <p className="text-slate-300 text-base sm:text-lg max-w-2xl leading-relaxed mb-6 font-sans">
-              Kernel-level defender building secure systems that stop real-world payload injection and scale to production.
+              build secure full-stack applications with security built into the frontend, APIs, data, authentication, and deployment.
             </p>
 
             {/* CTA Buttons: Resume, GitHub, Contact */}
