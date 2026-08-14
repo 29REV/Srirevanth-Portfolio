@@ -20,7 +20,7 @@ export default function Footer({ soundEnabled }) {
             </div>
             <div>
               <span className="font-bold text-white tracking-wider">SRIREVANTH ARAMUTHAKANNAN</span>
-              <span className="block text-[10px] text-emerald-400">CYBERSECURITY ENGINEER // BACKEND DEVELOPER</span>
+              <span className="block text-[10px] text-emerald-400">SECURITY SOFTWARE ENGINEER</span>
             </div>
           </div>
 

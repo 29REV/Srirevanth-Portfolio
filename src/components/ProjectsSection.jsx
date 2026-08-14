@@ -95,8 +95,8 @@ export default function ProjectsSection() {
         'Cloud deployment for availability and low-latency responses'
       ],
       outcome: 'Pilot deployment served live queries with structured, verified responses and reduced manual follow-ups in the pilot.',
-      github: 'https://github.com/29REV',
-      demo: 'https://github.com/29REV'
+      github: 'https://github.com/29REV/ElectionNavigatorAI',
+      demo: 'https://election-navigator-963587030858.asia-south1.run.app/'
     }
   ];
 

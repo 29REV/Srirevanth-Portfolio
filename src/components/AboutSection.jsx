@@ -80,15 +80,15 @@ export default function AboutSection() {
               
               <h3 className="text-xl font-mono font-bold text-white mb-4 flex items-center gap-3">
                 <ShieldCheck className="w-5 h-5 text-emerald-400" />
-                Cybersecurity &amp; Backend Engineer
+                Security Software Engineer
               </h3>
 
               <p className="text-slate-300 text-sm sm:text-base leading-relaxed mb-6 font-sans">
-                I am a dedicated Computer Science student specializing in <strong className="text-emerald-400">Cybersecurity</strong> and <strong className="text-cyan-400">Backend System Engineering</strong> at Dr. N.G.P. Institute of Technology. My technical journey is driven by a deep fascination with how security protocols interact with low-level kernel boundaries and intelligent automation.
+                I am a Computer Science student with a strong focus on <strong className="text-emerald-400">cybersecurity</strong>, secure software systems, and practical tooling at Dr. N.G.P. Institute of Technology. My work is driven by building reliable systems that solve real security and engineering problems.
               </p>
 
               <p className="text-slate-300 text-sm sm:text-base leading-relaxed mb-6 font-sans">
-                From developing kernel-level USB request filtering tools to building AI-assisted security analyzers, I focus on constructing resilient defense mechanisms, optimizing system architectures, and applying artificial intelligence to eliminate real-world security blind spots.
+                From developing USB forensic and filtering tools to building AI-assisted security analyzers, I focus on practical problem solving across software engineering, system design, and security-focused development.
               </p>
 
               {/* Education Box */}

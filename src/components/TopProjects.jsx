@@ -44,7 +44,7 @@ export default function TopProjects() {
       problem: 'BadUSB/RubberDucky style devices exploit descriptor/URB sequences to inject payloads at device init, bypassing userland protections.',
       contribution: 'Implemented URB interception & validation, real-time HID descriptor blocking, and forensic telemetry ingestion.',
       outcome: 'PoC lab tests prevented unauthorized HID initialization and produced audit-grade telemetry for incident response.',
-      github: '#'
+      github: 'https://github.com/29REV/USBForensicsTool'
     },
     {
       id: 'hololearn',
@@ -64,7 +64,7 @@ export default function TopProjects() {
       problem: 'Voter instructions are fragmented and inconsistent; citizens need accurate, localized guidance in real time.',
       contribution: 'Built NLU query pipeline, rule-mapping DB, multi-lingual response handling, and cloud deployment.',
       outcome: 'Pilot deployment served live queries with improved response consistency and reduced manual follow-ups.',
-      github: '#'
+      github: 'https://github.com/29REV/ElectionNavigatorAI'
     }
   ];
 
