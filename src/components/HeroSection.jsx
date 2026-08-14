@@ -96,7 +96,7 @@ export default function HeroSection() {
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-950/70 border border-emerald-500/30 text-emerald-400 text-xs font-mono mb-6 shadow-[0_0_15px_rgba(0,255,102,0.15)]">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
               <ShieldAlert className="w-3.5 h-3.5 text-emerald-400" />
-              <span>CYBERSECURITY &amp; SYSTEM BACKEND ARCHITECTURE</span>
+              <span>SECURE FULL-STACK ENGINEERING</span>
             </div>
 
             {/* Name */}
@@ -106,7 +106,7 @@ export default function HeroSection() {
 
             {/* Role */}
             <div className="text-emerald-400 font-mono text-lg sm:text-xl font-semibold mb-4">
-              Cybersecurity Engineer · Full-Stack · AI Systems
+              Secure Full-Stack Engineer · AI · Cybersecurity
             </div>
 
             {/* Positioning (single powerful line) */}
