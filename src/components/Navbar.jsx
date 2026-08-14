@@ -118,7 +118,7 @@ export default function Navbar() {
         {/* Actions */}
         <div className="flex items-center gap-3">
           <a
-            href="public/Srirevanth_Resume.pdf"
+            href="/Srirevanth_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:inline-flex items-center gap-2 px-4 py-2 text-xs font-mono text-emerald-400 bg-emerald-950/40 hover:bg-emerald-900/50 border border-emerald-500/40 hover:border-emerald-400 rounded-lg shadow-sm hover:shadow-[0_0_15px_rgba(0,255,102,0.2)] transition-all"
@@ -172,7 +172,7 @@ export default function Navbar() {
                 );
               })}
               <a
-                href="public/Srirevanth_Resume.pdf"
+                href="/Srirevanth_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setMobileMenuOpen(false)}

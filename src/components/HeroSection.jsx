@@ -59,7 +59,7 @@ export default function HeroSection() {
       document.getElementById('skills')?.scrollIntoView({ behavior: 'smooth' });
     } else if (cmd === 'resume') {
       newLogs.push({ type: 'res', text: 'Downloading resume PDF...' });
-      window.open('public/Srirevanth_Resume.pdf', '_blank');
+      window.open('/Srirevanth_Resume.pdf', '_blank');
     } else if (cmd === 'contact') {
       newLogs.push({ type: 'res', text: 'Email: srirevanth2908@gmail.com | Location: Coimbatore, TN' });
       document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
@@ -117,7 +117,7 @@ export default function HeroSection() {
             {/* CTA Buttons: Resume, GitHub, Contact */}
             <div className="flex flex-wrap items-center gap-3 w-full sm:w-auto mb-8">
               <a
-                href="public/Srirevanth_Resume.pdf"
+                href="/Srirevanth_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2.5 px-5 py-3 rounded-xl font-mono text-sm font-bold bg-emerald-500 text-black shadow-[0_0_18px_rgba(0,255,102,0.28)] hover:bg-emerald-400 transition-all"
@@ -212,7 +212,7 @@ export default function HeroSection() {
                 {/* Profile Photo Wrapper */}
                 <div className="relative rounded-xl overflow-hidden border border-emerald-500/30 group-hover:border-emerald-400 transition-colors">
                   <img 
-                    src="public/srirevanth.jpg" 
+                    src="/srirevanth.jpg" 
                     alt="Srirevanth Aramuthakannan" 
                     className="w-full h-80 object-cover object-center filter saturate-105 group-hover:scale-105 transition-transform duration-500"
                   />
