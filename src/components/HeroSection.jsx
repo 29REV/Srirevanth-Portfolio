@@ -234,7 +234,7 @@ export default function HeroSection() {
                 <div className="grid grid-cols-2 gap-2 mt-4 font-mono text-xs">
                   <div className="p-2.5 rounded-lg bg-[#030712] border border-slate-800 text-center">
                     <span className="block text-[10px] text-slate-400">FOCUS</span>
-                    <span className="text-emerald-400 font-bold">THREAT DETECT</span>
+                    <span className="text-emerald-400 font-bold">SECURE FULL STACK</span>
                   </div>
                   <div className="p-2.5 rounded-lg bg-[#030712] border border-slate-800 text-center">
                     <span className="block text-[10px] text-slate-400">DEGREE</span>
