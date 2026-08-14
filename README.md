@@ -1,16 +1,156 @@
-# React + Vite
+# SRIREVANTH A. — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> Cybersecurity Engineer · Full-Stack Developer · AI Systems
 
-Currently, two official plugins are available:
+A personal portfolio showcasing my work across **cybersecurity, AI systems, full-stack development, and software engineering**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The portfolio is designed to present my technical projects, security research, achievements, skills, and experience through a cybersecurity-inspired interface.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Live Portfolio
 
-## Expanding the Oxlint configuration
+**[Visit Portfolio](YOUR_VERCEL_URL)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🧠 About
+
+I'm **Srirevanth A.**, a Computer Science and Engineering student specializing in Cybersecurity.
+
+My interests span:
+
+- 🔐 Cybersecurity & Security Engineering
+- 🤖 AI & Intelligent Systems
+- 💻 Full-Stack Development
+- 🐧 Linux & Systems
+- 🧩 Data Structures & Algorithms
+- 🛡️ Security Research & CTFs
+
+I enjoy building systems that solve practical problems while exploring how those systems can be made more secure, reliable, and efficient.
+
+---
+
+## ⚡ Featured Projects
+
+### 🔐 USB Forensics Tool
+
+A security-focused project exploring USB device behavior, forensic analysis, and detection of potentially malicious USB activity.
+
+**Focus:** USB security · Digital forensics · Linux · Security analysis
+
+---
+
+### 🥽 HoloLearn
+
+An affordable holographic teaching system designed to improve remote and interactive learning experiences.
+
+**Achievement:** IEEE Project Expo Finalist
+
+**Focus:** Real-time systems · Streaming · Education technology · Full-stack development
+
+---
+
+### 🤖 ElectionNavigatorAI
+
+An AI-powered system designed to provide users with accessible and contextual election-related information.
+
+**Focus:** AI · Natural language processing · Structured data · Full-stack development
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- C
+- C++
+- Java
+- Python
+- JavaScript
+
+### Web Development
+
+- React
+- Node.js
+- Express
+- HTML
+- CSS
+- REST APIs
+
+### Cybersecurity
+
+- Linux
+- Wireshark
+- Burp Suite
+- John the Ripper
+- Cryptography
+- Digital Forensics
+- CTF / Security Challenges
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- Firebase
+- Google Cloud
+- Linux
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **IEEE Project Expo 2025 — Finalist**
+- 🏅 **NPTEL — Gold Medal, 94%**
+- 🧩 **picoCTF — 40+ challenges solved**
+- 🚀 Participated in **TN Hackathon at IIT Madras**
+- 💡 Participated in multiple AI, cybersecurity, and software development projects
+
+---
+
+## 📊 What This Portfolio Demonstrates
+
+This project demonstrates my experience with:
+
+- React-based frontend development
+- Component-driven UI architecture
+- Responsive web design
+- Interactive UI and animations
+- Project presentation and technical documentation
+- Git/GitHub workflow
+- Deployment of modern frontend applications
+
+---
+
+## 🎨 Design
+
+The portfolio uses a **cybersecurity-inspired interface** with:
+
+- Terminal-style elements
+- Dark UI
+- Interactive components
+- Motion effects
+- Responsive layouts
+- Security-themed visual language
+
+The goal is to combine technical identity with a clean and usable portfolio experience.
+
+---
+
+## 📬 Contact
+
+I'm open to **internships, collaborative projects, hackathons, and opportunities in cybersecurity, AI, and software engineering**.
+
+**Email:** srirevanth2908@gmail.com
+
+**GitHub:** https://github.com/29REV/
+
+**LinkedIn:** https://in.linkedin.com/in/srirevanth-aramuthakannan-430383316
+
+---
+
+## 📄 License
+
+This repository contains my personal portfolio and project presentation.
+
+© 2026 Srirevanth A.
