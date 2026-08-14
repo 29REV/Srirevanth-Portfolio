@@ -214,7 +214,7 @@ export default function HeroSection() {
                   <img 
                     src="/srirevanth.jpg" 
                     alt="Srirevanth Aramuthakannan" 
-                    className="w-full h-80 object-cover object-center filter saturate-105 group-hover:scale-105 transition-transform duration-500"
+                    className="w-full h-80 object-cover object-top filter saturate-105 group-hover:scale-105 transition-transform duration-500"
                   />
 
                   {/* Scanline overlay over photo */}
